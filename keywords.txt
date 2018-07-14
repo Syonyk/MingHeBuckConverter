@@ -1,0 +1,37 @@
+MingHeBuckConverter	KEYWORD1
+
+testConnection	KEYWORD2
+resetDeviceId	KEYWORD2
+resetBaudrate	KEYWORD2
+getMachineModel	KEYWORD2
+getMaxVoltage	KEYWORD2
+getMaxCurrent	KEYWORD2
+getVoltage	KEYWORD2
+getCurrent	KEYWORD2
+getOutputEnabled	KEYWORD2
+getLimitingFactor	KEYWORD2
+getWatts	KEYWORD2
+getmAmpHours	KEYWORD2
+getPowerOnTime	KEYWORD2
+getTemperature	KEYWORD2
+getShutdownTemperature	KEYWORD2
+getFanStartTemperature	KEYWORD2
+getFastVoltageChangeEnabled	KEYWORD2
+getBootOutputEnabled	KEYWORD2
+getBeeperEnabled	KEYWORD2
+getCommunicationVersion	KEYWORD2
+setMaxVoltage	KEYWORD2
+setMaxCurrent	KEYWORD2
+setOutputEnabled	KEYWORD2
+setmAmpHours	KEYWORD2
+setShutdownTemperature	KEYWORD2
+setFanStartTemperature	KEYWORD2
+setPowerOnTime	KEYWORD2
+setBaudRate	KEYWORD2
+setAddress	KEYWORD2
+setBootOutputEnabled	KEYWORD2
+setBeeperEnabled	KEYWORD2
+setFastVoltageChangeEnabled	KEYWORD2
+storeToMemory	KEYWORD2
+loadFromMemory	KEYWORD2
+
